@@ -28,3 +28,6 @@ User is allowed to manipuate photos in the websites for their learing.
 user is allowed to share the links to other users for viewing iamges and gaining more experience and learning.
 
 ### The user is not allowed to do the following;-
+The user is not allowed to delete the links and put ofhis/her  own.
+User is not allowed to delete photos on the web or add any photos.
+User is not allowed add any information on the photos provided.
